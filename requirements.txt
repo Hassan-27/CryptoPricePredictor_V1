@@ -1,0 +1,11 @@
+streamlit>=1.18
+yfinance
+pandas
+numpy
+scikit-learn
+ta
+requests
+python-dotenv
+vaderSentiment
+joblib
+plotly
